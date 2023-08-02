@@ -1,0 +1,54 @@
+.mainnav{
+    background-color: aquamarine;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.firstcontent{
+    background-color: gray;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.secondcontent{
+    background-color:bisque;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pic1 {
+    width: 600px;
+    
+}
+
+.pic2 {
+    width: 40%;
+    box-shadow: 0px 0px 3px black;
+    padding: 0;
+}
+
+.thirdmain{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    width: 300px;
+    height: fit-content;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+  }
